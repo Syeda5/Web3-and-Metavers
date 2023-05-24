@@ -1,0 +1,130 @@
+h1{
+font-size: 60px;
+color: aliceblue;
+text-align: center;
+}
+body{
+    background-color: black;
+}
+#a{
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    
+}
+#b{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(238, 0, 131);
+    margin-top: -200px;
+    margin-left: 98px;
+}
+#c{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(245, 93, 6);
+    margin-top: -200px;
+    margin-left: 196px;
+}
+#d{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(255, 158, 32);
+    margin-top: -200px;
+    margin-left: 294px;
+}
+#e{
+    width: 100px;
+    height: 200px;
+    background-color: yellow;
+    margin-top: -200px;
+    margin-left: 393px;
+}
+#f{
+    width: 100px;
+    height: 200px;
+    background-color: lime;
+    margin-top: -200px;
+    margin-left: 490px;
+}
+#g{
+    width: 100px;
+    height: 200px;
+    background-color: limegreen;
+    margin-top: -200px;
+    margin-left: 580px;
+
+}
+#h{
+    width: 100px;
+    height: 200px;
+    background-color: green;
+    margin-top: -200px;
+    margin-left: 680px;
+}
+#i{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(8, 116, 65);
+    margin-top: -200px;
+    margin-left: 780px;
+}
+#j{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(18, 197, 221);
+    margin-top: -200px;
+    margin-left: 868px;
+}
+#k{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(38, 71, 221);
+    margin-top: -200px;
+    margin-left: 960px;
+}
+#l{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(18, 7, 117);
+    margin-top: -200px;
+    margin-left: 1055px;
+
+}
+#m{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(69, 4, 82);
+    margin-top: -200px;
+    margin-left: 1155px;
+}
+#n{
+    width: 100px;
+    height: 200px;
+    background-color: rgb(173, 16, 134);
+    margin-top: -200px;
+    margin-left: 1255px;
+}
+
+#ac{
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: -150px;
+    font-weight: bold;
+}
+
+#neu{
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: -10px;
+    margin-left: 590px;
+    font-weight: bold;
+}
+
+#alk{
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: -8px;
+    margin-left: 687px;
+    font-weight: bold;
+}
